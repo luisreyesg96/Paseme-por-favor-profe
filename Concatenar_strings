@@ -1,0 +1,12 @@
+#Concatenar dos valores string e impimirlos
+
+#definimos 3 frases en tres valores string
+palabra = "Esta es "
+palabra2 = "una sola frase "
+palabra3 = "adios"
+
+#concatenamos con el operador de suma
+concatena = palabra + palabra2 + palabra3
+
+#imprimimos el resultado de la concatenacion
+print (concatena)
